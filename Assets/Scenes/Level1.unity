@@ -1849,7 +1849,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8944511082706444144, guid: 25eb30fe41ae849738ea93dd0954b418, type: 3}
       propertyPath: gap
-      value: 10
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 8944511082706444144, guid: 25eb30fe41ae849738ea93dd0954b418, type: 3}
       propertyPath: moveSpeed
